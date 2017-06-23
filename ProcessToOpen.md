@@ -18,9 +18,9 @@
     - Are you using GPL code?
 - [ ] **Is our `README.md` template with project information included?**   
       - Standard README needs to be created for all GSA   
-      - [ ] Are installation instructions clearly written in the `README` _and_ tested on a clean machine?   
-      - [ ] Are all dependencies described in the `README`, `requirements.txt`, and/or `buildout.cfg`?   
-      - [ ] Is there a screenshot in the `README`, if applicable?
+      - Are installation instructions clearly written in the `README` _and_ tested on a clean machine?   
+      - Are all dependencies described in the `README`, `requirements.txt`, and/or `buildout.cfg`?   
+      - Is there a screenshot in the `README`, if applicable?
 - [ ] **Is our `CONTRIBUTING.md` included?**
       - Standard CONTRIBUTING needs to be created for all GSA
 - [ ] **Is our `LICENSE.md` included?**
