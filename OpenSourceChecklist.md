@@ -1,4 +1,4 @@
-# Process to open source code
+# Open source checklist
 ### Draft
 
 ## Required
