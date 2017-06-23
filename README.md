@@ -1,10 +1,10 @@
-# GSA Open Source Policy
+# GSA Open Source Policy Guidance
 
 This repository is part of the [General Services Administration](http://gsa.gov) organization in GitHub and is being used to provide supplemental guidance for implementing [GSA's Open Source Policy](https://open.gsa.gov/oss-policy/).
 
 ### Credits
 
-This repository was originally forked from the [18F](https://18f.gsa.gov/) open source policy repository and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).  (Note: 18F is a digital delivery service within GSA and is leading open source code publications efforts within the agency.)
+This repository was originally forked from the [18F](https://18f.gsa.gov/) open source policy repository and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).  (Note: 18F is a digital delivery service within GSA and is leading open source code publication efforts within the agency.)
 
 ### Public domain
 
