@@ -17,12 +17,12 @@
     - Needs clarification in GSA
     - Are you using GPL code?
 - [ ] **Is our `README.md` template with project information included?**   
-      - Standard README needs to be created for all GSA   
-      - Are installation instructions clearly written in the `README` _and_ tested on a clean machine?   
-      - Are all dependencies described in the `README`, `requirements.txt`, and/or `buildout.cfg`?   
-      - Is there a screenshot in the `README`, if applicable?
+    - Standard README needs to be created for all GSA   
+    - Are installation instructions clearly written in the `README` _and_ tested on a clean machine?   
+    - Are all dependencies described in the `README`, `requirements.txt`, and/or `buildout.cfg`?   
+    - Is there a screenshot in the `README`, if applicable?
 - [ ] **Is our `CONTRIBUTING.md` included?**
-      - Standard CONTRIBUTING needs to be created for all GSA
+    - Standard CONTRIBUTING needs to be created for all GSA
 - [ ] **Is our `LICENSE.md` included?**
     - Standard License needs to be created for all GSA
 - [ ] **Copy files to new repository instead of using an existing one; meaning, don't put the history in the public repository**
