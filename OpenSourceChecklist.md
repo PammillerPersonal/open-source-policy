@@ -10,9 +10,11 @@
       - Look at 18F seeker
 - [ ] **Have security vulnerabilities been remediated?**
     - What are security vulnerabilities?
+      - Passwords
     - What is sensitive?
     - What can be discussed in a public issue
       - Look in 18F Before Your Ship
+    - What about security management features such as security keys, encryption and decryption business logic?
 - [ ] **Are we including any other open source products? If so, is there any conflict with our public domain release?**
     - Needs clarification in GSA
     - Are you using GPL code?
@@ -25,6 +27,7 @@
     - Standard CONTRIBUTING needs to be created for all GSA
 - [ ] **Is our `LICENSE.md` included?**
     - Standard License needs to be created for all GSA
+- [ ] **Does the app source code contain 3rd party libraries or frameworks that are not open source (or have a different license?**
 - [ ] **Copy files to new repository instead of using an existing one; meaning, don't put the history in the public repository**
 
 ## Future Considerations
