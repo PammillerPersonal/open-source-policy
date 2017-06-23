@@ -4,7 +4,7 @@ This repository is part of the [General Services Administration](http://gsa.gov)
 
 ### Credits
 
-This repository was originally forked from the [18F](https://18f.gsa.gov/) open source policy repository and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).  (Note: 18F is a digital delivery service within GSA and is leading open source code publication efforts within the agency.)
+This repository was originally forked from the [18F](https://18f.gsa.gov/) open source policy [repository](https://github.com/18F/open-source-policy) and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).  (Note: 18F is a digital delivery service within GSA and is practices an *open first* approach with code publication.)
 
 ### Public domain
 
