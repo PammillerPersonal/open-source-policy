@@ -2,14 +2,14 @@
 
 The [General Services Administration](http://gsa.gov) develops digital solutions for internal operations and to help agencies meet the needs of the people and businesses they serve. This requires flexibility in how we code, with a focus on lowering costs for the American people, while improving their interactions with the U.S. Government.
 
-GSA's official [Open Source Policy](https://open.gsa.gov/oss-policy/) specifies internal guidance to move GSA to an "open first" posture.  The narrative here compliments the policy and provides narrative with the rationale for doing so.
+GSA's official [Open Source Policy](https://open.gsa.gov/oss-policy/) specifies internal guidance to move GSA to an "open first" posture.  The narrative here compliments the policy and provides rationale for doing so.
 
 The default position of GSA when developing new projects is to:
 
 1. Use Free and Open Source Software (FOSS), which is software that does not charge users a purchase or licensing fee for modifying or redistributing the source code, in our projects and contribute back to the open source community.
 2. Develop our work in the open when possible with default leaning towards "open first".
 3. Publish source code publicly whether it was created or modified by GSA, either by in-house by government staff or contractors.
-4. Utilize contracts and contract language to capture and public custom code.
+4. Utilize contracts and contract language to capture and publish custom code.
 
 ## Benefits
 
