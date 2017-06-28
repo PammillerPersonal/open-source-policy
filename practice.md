@@ -12,9 +12,9 @@ Before deciding to delay or withhold the release of source code, consult with th
 
 ### Implementation guidance to support OMB-16-21
 
-[Implementation guidance](https://open.gsa.gov/oss-implementation/) supporting [M-16-21](https://sourcecode.cio.gov/) is located on GSA's open government platform [open.gsa.gov](https://open.gsa.gov/).  In particular, teams that produce custom code, either developed by a federal employee or contractor, are to include it in the [code.json file](https://open.gsa.gov/code.json) and consider how to open source it if not done already.
+[Implementation guidance](https://open.gsa.gov/oss-implementation/) supporting [M-16-21](https://sourcecode.cio.gov/) is located on GSA's open government platform [open.gsa.gov](https://open.gsa.gov/).  In particular, teams that produce custom code, either developed by a federal employee or contractor, are to include it in the [code.json file](https://open.gsa.gov/code.json) and consider how to open source it if not already done.
 
-To assist with open sourcing the code, use the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md).  This checklist will continue to be refined as we progress through opening current closed source repos and mature to an "open first" organization.
+To assist with open sourcing the code, use this repo's [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md).  This checklist will continue to be refined as we progress through open sourcing.
 
 ### Public domain
 
@@ -99,7 +99,7 @@ As part of responsibly working in the open, GSA team members are expected to pro
 
 If GSA team members aren't sure whether they should make something public, they should ask a person on our CTO Digital Service team for advice _first_. (Ask through cto@gsa.gov)
 
-If GSA team members inadvertently come into the possession of classified information (Secret, Top Secret, etc.), they should immediately report it to the the supervisor and agency CISO.
+If GSA team members inadvertently come into the possession of classified information (Secret, Top Secret, etc.), they should immediately report it to the supervisor and agency CISO.
 
 Sensitive information we need to protect includes, but is not limited to:
 
@@ -107,7 +107,7 @@ Sensitive information we need to protect includes, but is not limited to:
     * **Secret keys:** Passwords, passcodes, access codes, access tokens, API keys, TLS keys, SSH keys, OAuth secrets, or any other “secret keys” that protect access to something.
     * **Undisclosed vulnerabilities:** If we know of a security problem or potential security problem with our code that isn’t already publicly-known (such as a vulnerability that can’t be found with a publicly-available open source scanning tool run on the public-facing system), we shouldn’t write publicly about it until we fix it.
 * Nonpublic information in general about vulnerabilities, including attribution/source information (such as how and when we learned about a vulnerability, if the disclosure to us was not public).
-* We may wish to withhold some non-18F IP addresses. If something looks like an IP address, ask 18F Infrastructure before publishing that info.
+* We may wish to withhold some non-GSA IP addresses. If something looks like an IP address, ask GSA IT security before publishing that info.
 * Personally Identifiable Information (PII). Here’s [OMB's definition and GSA's policy](http://www.gsa.gov/portal/content/104256). 18F also has [guidance for systems involving PII](https://pages.18f.gov/before-you-ship/security/pii/).
 * Some kinds of procurement and acquisition information, which may include non-public cost or pricing data, contract information, trade secrets, indirect costs, and direct labor rates.
 * Emergency procedures, such as evacuation plans.
@@ -125,7 +125,7 @@ Open source projects can &mdash; and hopefully do! &mdash; get use and uptake fr
 When creating new open source projects:
 
 * If you're creating a repo because it's primarily for your GSA work, and the work you perform in it is primarily to benefit GSA, start the repo's life in the GSA organization.
-* If you're creating a repo for personal use, this is okay and hopefully will result in useable code for the agency as well.  You may use the GitHub/GSA organization but should most likely use your personal GitHub accont.
+* If you're creating a repo for personal use, this is okay and hopefully will result in useable code for the agency as well.  You may use the GitHub/GSA organization but should most likely use your personal GitHub accont.  Use your discretion and consider our internal ethics policies.
 * If you're creating a repo and plan to make it private for all or some of it's life, you should consult cto@gsa.gov and the GitHub manager to discuss applicability and cost.  This is a **strongly discouraged** path to open source or to code management/development in general.
 
 As people open issues and request features continue to exercise professional judgment about how to spend GSA time.
