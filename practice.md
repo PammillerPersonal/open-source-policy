@@ -14,7 +14,7 @@ Before deciding to delay or withhold the release of source code, consult with th
 
 [Implementation guidance](https://open.gsa.gov/oss-implementation/) supporting [M-16-21](https://sourcecode.cio.gov/) is located on GSA's open government platform [open.gsa.gov](https://open.gsa.gov/).  In particular, teams that produce custom code, either developed by a federal employee or contractor, are to include it in the [code.json file](https://open.gsa.gov/code.json) and consider how to open source it if not done already.
 
-To assist with open sourcing the code, use the [open source checklist](#).
+To assist with open sourcing the code, use the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md).  This checklist will continue to be refined as we progress through opening current closed source repos and mature to an "open first" organization.
 
 ### Public domain
 
