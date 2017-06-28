@@ -44,3 +44,4 @@
 - [ ] **If applicable and possible, is it set up in Jenkins or CircleCI?**
 - [ ] **Have multiple people reviewed the code?**
 - [ ] **Are the API docs generated?**
+- [ ] Encourage the use of .gitignore file to protect the repo and ensure junk is not added
