@@ -10,6 +10,12 @@ GSA team members should work with the presumption that all of their code will be
 
 Before deciding to delay or withhold the release of source code, consult with the team and be prepared to publicly document this exception.
 
+### Implementation guidance to support OMB-16-21
+
+[Implementation guidance](https://open.gsa.gov/oss-implementation/) supporting [M-16-21](https://sourcecode.cio.gov/) is located on GSA's open government platform [open.gsa.gov](https://open.gsa.gov/).  In particular, teams that produce custom code, either developed by a federal employee or contractor, are to include it in the [code.json file](https://open.gsa.gov/code.json) and consider how to open source it if not done already.
+
+To assist with open sourcing the code, use the [open source checklist](#).
+
 ### Public domain
 
 [By law](http://www.law.cornell.edu/uscode/text/17/105), works of the United States government are not copyrightable in the US, and so are public domain. But by default, US government works **are** copyrightable internationally, and so GSA intentionally waives this copyright abroad using [CC0](https://creativecommons.org/publicdomain/zero/1.0/).

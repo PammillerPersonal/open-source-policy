@@ -1,5 +1,4 @@
 # Open source checklist
-### Draft
 
 ## Required
 - [ ] **Has PII been removed?**
