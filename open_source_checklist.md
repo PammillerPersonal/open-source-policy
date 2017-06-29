@@ -1,18 +1,19 @@
 # Open source checklist
+Before going live with a public repository, the following considerations should be taken. 
 
 ## Required
 - [ ] **Has PII been removed?**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
   - If there are images, visually inspect each image to ensure there is no GSA-specific information.
     - Probably need to point people to PII list/definition
-      - Look in 18F Before Your Ship
+      - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
       - Look at 18F seeker
 - [ ] **Have security vulnerabilities been remediated?**
     - What are security vulnerabilities?
       - Passwords
     - What is sensitive?
     - What can be discussed in a public issue
-      - Look in 18F Before Your Ship
+      - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
     - What about security management features such as security keys, encryption and decryption business logic?
 - [ ] **Are we including any other open source products? If so, is there any conflict with our public domain release?**
     - Needs clarification in GSA
@@ -26,6 +27,8 @@
     - Standard CONTRIBUTING needs to be created for all GSA
 - [ ] **Is our `LICENSE.md` included?**
     - Standard License needs to be created for all GSA
+- [ ] **Is our `codeinventory.yml` included?**
+    - This will help GSA take stock of the projects
 - [ ] **Does the app source code contain 3rd party libraries or frameworks that are not open source (or have a different license?**
 - [ ] **Copy files to new repository instead of using an existing one; meaning, don't put the history in the public repository**
 
@@ -44,3 +47,4 @@
 - [ ] **If applicable and possible, is it set up in Jenkins or CircleCI?**
 - [ ] **Have multiple people reviewed the code?**
 - [ ] **Are the API docs generated?**
+- [ ] Encourage the use of .gitignore file to protect the repo and ensure junk is not added
