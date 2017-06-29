@@ -1,3 +1,5 @@
+*Draft Repository - creating with internal GSA open source workgroup and vetting through appropriate oversight offices for final publication.*
+
 # GSA Open Source Policy Guidance
 
 This repository is part of the [General Services Administration](http://gsa.gov) organization in GitHub and is being used to provide supplemental guidance for implementing [GSA's Open Source Policy](https://open.gsa.gov/oss-policy/).
