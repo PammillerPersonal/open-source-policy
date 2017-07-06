@@ -8,7 +8,7 @@ This repository is part of the [General Services Administration](http://gsa.gov)
 This repository can be forked by GSA teams wishing to begin an open source project and should include some or all of the following files.
 - [Policy](policy.md) - provides further details of the official GSA Open Source Policy
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
-- CSS to OSS (forthcoming) - process of open sourcing closed code to open code based on project experience within GSA
+- [CSS to OSS](CSS_to_OSS.md) - process of open sourcing closed code to open code based on project experience within GSA
 - [Open Source Checklist](open_source_checklist.md) - provides a checklist that teams can use when open sourcing their code
 - [README.md](README.md) - initial repository file welcoming contributors and describing the repos intent
 - [LICENSE.md](LICENSE.md) - open source license details for opening and contributing to GSA developed code
