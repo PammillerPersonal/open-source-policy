@@ -5,7 +5,7 @@
 This repository is part of the [General Services Administration](http://gsa.gov) organization in GitHub and is being used to provide supplemental guidance for implementing [GSA's Open Source Policy](https://open.gsa.gov/oss-policy/).
 
 ### Repository contents
-This repository can be forked by GSA teams wishing to begin an open source project and should includes some or all of the following files.
+This repository can be forked by GSA teams wishing to begin an open source project and should include some or all of the following files.
 - [Policy](policy.md) - provides further details of the official GSA Open Source Policy
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
 - CSS to OSS (forthcoming) - process of open sourcing closed code to open code based on project experience within GSA
@@ -15,7 +15,7 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 - [CONTRIBUTING.md](CONTRIBUTING.md) - "rules of the road" for contributing to GSA repos including this one
 - [Code of Conduct](CODE_OF_CONDUCT.md) - behaviors that should be practiced with working at/with GSA
 - Shell scripts - [create-gsa-repo.sh](create-gsa-repo.sh) and [init-gsa-repo.sh](init-gsa-repo.sh) used for duplicating this repo
-- Include files - [.gitignore](.gitignore), [codeinventory.yml](codeinventory.yml), and [.github](.github) - these files are for hosting config and repo environment content
+- Include files - [.gitignore](.gitignore), [codeinventory.yml](.codeinventory.yml), and [.github](.github) - these files are for hosting config and repo environment content
 
 ### Credits
 

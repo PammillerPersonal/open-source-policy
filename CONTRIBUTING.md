@@ -1,4 +1,4 @@
-## Welcome!
+## How to contribute
 
 > All contributions to this project will be released under the CC0
 > dedication. By submitting a pull request, or filing a bug, issue, or
