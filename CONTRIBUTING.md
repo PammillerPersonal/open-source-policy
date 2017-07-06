@@ -3,7 +3,7 @@
 > All contributions to this project will be released under the CC0
 > dedication. By submitting a pull request, or filing a bug, issue, or
 > feature-request you are agreeing to comply with this waiver of copyright interest.
-> Details can be found in our [TERMS](TERMS.md) and [LICENSE](LICENSE.md).
+> Details can be found in our [LICENSE](LICENSE.md).
 
 We're so glad you're thinking about contributing to a GSA open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
