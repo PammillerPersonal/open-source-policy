@@ -7,6 +7,7 @@
 
 We're so glad you're thinking about contributing to a GSA open source project! If you're unsure about anything, just ask -- or submit the issue or pull request anyway. The worst that can happen is you'll be politely asked to change something. We love all friendly contributions.
 
+<<<<<<< HEAD
 ## Submit an issue
 
 Use the issue tracker to suggest feature requests, report bugs, and ask questions. This is also a great way to connect with the developers of the project as well as others who are interested in this solution.  
@@ -17,6 +18,9 @@ Generally speaking, you should fork this repository, make changes in your
 own fork, and then submit a pull-request.  All new code should have associated unit tests that validate implemented features and the presence or lack of defects.  Additionally, the code should follow any stylistic and architectural guidelines prescribed by the project. In the absence of such guidelines, mimic the styles and patterns in the existing code-base.
 
 ## Further inquiry
+=======
+We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](LICENSE.md), and its [README](README.md) and adhere to its [CODE_OF_CONDUCT](CODE_OF_CONDUCT.md).
+>>>>>>> fc9962caded37665c71c1a155e4044baf1aae050
 
 If you have any questions or want to read more, check out the [GSA Open Source Policy](https://open.gsa.gov/oss-policy/) and [Guidance repository](https://github.com/GSA/open-source-policy), or just [shoot us an email](mailto:cto@gsa.gov).
 
