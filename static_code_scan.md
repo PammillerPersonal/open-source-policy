@@ -11,7 +11,7 @@ Questions and help reach out to Joe Castle (<joseph.castle@gsa.gov>).  For text 
 This option is for project teams that already have open source code and are looking to create a development pipeline for continually updating code upon commit/PR to repo.  This is also the "free" option.
 
 1. Review the GSA Open Source Policy [repo](https://github.com/GSA/open-source-policy).
-2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations with code development).
+2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations for code development).
 3. Read [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/CSS_to_OSS.md) on going from closed source to open source.
 4. Create a public repository on GitHub in the GSA [organization](https://github.com/GSA).  Make sure to follow GSA's GitHub use [instructions](https://github.com/GSA/GitHub-Administration).
 5. Scan code in repository or on local machine with post-commit  [Clouseau](https://github.com/cfpb/clouseau).
@@ -25,11 +25,11 @@ This option is for project teams that already have open source code and are look
 This option is for project teams that have closed source code and want to scan in a development pipeline potentially to open source.  This option mimics #1 but costs money. It is the most viable option to scan code, clean, and make public.  Then you can go to Option #1, the free option above.
 
 1. Review the GSA Open Source Policy [repo](https://github.com/GSA/open-source-policy).
-2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations with code development).
+2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations for code development).
 3. Read [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/CSS_to_OSS.md) on going from closed source to open source.
 4. Setup a private repository on GitHub in the GSA [organization](https://github.com/GSA).  Keep in mind that these cost money to GSA and you may have to buy one or more as needed.  Coordinate your efforts with Mike Tanski (mike.tanski@gsa.gov) of GSA IT's Corporate IT Systems.
-5. Notify Joe Castle (joseph.castle@gsa.gov>) that you want to use Checkmarx for static code scanning so you can pass him repo information with token to setup a secure connection to the AWS server with Cx, configure Cx, and get regular reports on commit/PR.
-6. Scan code in repository or on local machine with post-commit  [Clouseau](https://github.com/cfpb/clouseau).
+5. Notify Joe Castle (joseph.castle@gsa.gov) that you want to use Checkmarx for static code scanning so you can pass him repo information with token to setup a secure connection to the AWS server with Cx, configure Cx, and get regular reports on commit/PR.
+6. Scan code in repository or on local machine with post-commit [Clouseau](https://github.com/cfpb/clouseau).
 7. [Lock](https://help.github.com/articles/configuring-protected-branches/) master branch for monitored PR inclusion.
 8. Link your GitHub account to [CircleCI](https://circleci.com/). Setup linters, proofers, and tests as needed for your project/code.  This can be done in settings on the repo or in the .circlci/config.yml file. Build out your development workflow. Refer to CircleCI [documentation](https://circleci.com/docs/) for further details.
 9. **TBD...**
