@@ -8,4 +8,4 @@ The tool pipeline included: GitHub --> CircleCI --> Checkmarx SAST & OSA --> Sla
 
 ## Open Source Development Pipeline
 
-![Open Source Development Pipeline](https://github.com/GSA/open-source-policy/img/blob/master/oss_path.png "Open Source Development Pipeline")
+![Open Source Development Pipeline](https://github.com/GSA/open-source-policy/blob/master/img/oss_path.png "Open Source Development Pipeline")
