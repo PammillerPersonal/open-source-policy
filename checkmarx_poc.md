@@ -24,7 +24,7 @@ Legend(ish) - "....." lines account for CLI or browser from client to applicatio
 
 ---
 
-## Close Source Development Pipeline with Checkmarx
+## Close Source Development Pipeline with Checkmarx (Cx)
 
 ![Close Source Development Pipeline](https://github.com/GSA/open-source-policy/blob/master/img/css_path.png "Close Source Development Pipeline")
 
@@ -36,7 +36,9 @@ The following is a high-level description of the diagram/architecture. [Brian](#
   - Mac particular - [Microsoft Remote Desktop](https://itunes.apple.com/us/app/microsoft-remote-desktop-8-0/id715768417?mt=12) for Mac
 - [GitHub](https://github.com/gsa) - GSA has an organization on GitHub.com and closed repositories for close source code versioning. It is the root for the development pipeline with branch rules and integration to CircleCI. It also provides notification via Slack back to the client.
 - [CircleCI](https://circleci.com/) - tbd
-- GSA [AWS](https://aws.amazon.com/) -
-- [Checkmarx](https://www.checkmarx.com/) -
+- GSA [AWS](https://aws.amazon.com/) - AWS is used for placing Cx server in the cloud. A Microsoft Windows 2016 server base will work for the AMI. Cx has specific specs on size and performance. It is wise to setup a micro Linux machine for testing CLI commands as needed. Ultimately, look at the [Cx documentation](https://www.checkmarx.com/documentation/).
+  - Cx particular - Cx only runs on Microsoft Windows and SQL Server.
+  - Cx particular - Auto code scanning occurs between Cx and CircleCI through CLI calls. To test the commands, first you can work them on the Windows machine in PowerShell then try from outside the environment from Linux. Specifics will be in [static_code_scan.md](https://github.com/GSA/open-source-policy/blob/master/static_code_scan.md) within this repo.
+- [Checkmarx](https://www.checkmarx.com/) - tbd
 
 Legend(ish) - "....." lines account for CLI or browser from client to application directly for config; "_____" lines account for code transfer and communication between client and applications as well applications and applications.
