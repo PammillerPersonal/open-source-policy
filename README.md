@@ -4,7 +4,8 @@
 
 This repository is part of the [General Services Administration](http://gsa.gov) organization in GitHub and is being used to provide supplemental guidance for implementing [GSA's Open Source Policy](https://open.gsa.gov/oss-policy/).
 
-### Repository contents
+## Repository contents
+
 This repository can be forked by GSA teams wishing to begin an open source project and should include some or all of the following files.
 - [Policy](policy.md) - provides further details of the official GSA Open Source Policy
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
@@ -17,11 +18,15 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 - Shell scripts - [create-gsa-repo.sh](create-gsa-repo.sh) and [init-gsa-repo.sh](init-gsa-repo.sh) used for duplicating this repo
 - Include files - [.gitignore](.gitignore), [codeinventory.yml](.codeinventory.yml), and [.github](.github) - these files are for hosting config and repo environment content
 
-### Credits
+## Code Scanning Content
+
+tbd - follow in this order...
+
+## Credits
 
 This repository was originally forked from the [18F](https://18f.gsa.gov/) open source policy [repository](https://github.com/18F/open-source-policy) and the [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/).  (Note: 18F is a digital delivery service within GSA and practices an *open first* approach with code publication.)
 
-### Public domain
+## Public domain
 
 This project is in the worldwide [public domain](LICENSE.md). As stated in [CONTRIBUTING](CONTRIBUTING.md):
 
