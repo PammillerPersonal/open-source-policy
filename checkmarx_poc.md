@@ -31,8 +31,9 @@ Legend(ish) - "....." lines account for CLI or browser from client to applicatio
 The following is a high-level description of the diagram/architecture. [Brian](#) is a working version and GSA employees with proper access (e.g., request access to the private repo) can look under the hood for a closer look of what's happening.
 
 - Client - The client is the developer's computer. It consists of an IDE, CLI, and browser for pushing code to GitHub and interacting with CircleCI, Checkmarx, and receives Slack notifications of builds. A local install of [Clouseau](https://github.com/cfpb/clouseau) is helpful for scanning code locally for sensitive content.
-  - Cx particular - Microsoft Remote Desktop will be needed to communicate with AWS EC2 Microsoft Windows 2016 server. Cx only runs on Windows.
+  - Cx particular - [Microsoft Remote Desktop](https://www.microsoft.com/en-us/store/p/microsoft-remote-desktop/9wzdncrfj3ps) will be needed to communicate with AWS EC2 Microsoft Windows 2016 server. Cx only runs on Windows.
   - Cx particular - CLI will be needed for using Linux as a jump box to run Cx CLI tests (see more below in AWS section).
+  - Mac particular - [Microsoft Remote Desktop](https://itunes.apple.com/us/app/microsoft-remote-desktop-8-0/id715768417?mt=12) for Mac
 - [GitHub](https://github.com/gsa) - GSA has an organization on GitHub.com and closed repositories for close source code versioning. It is the root for the development pipeline with branch rules and integration to CircleCI. It also provides notification via Slack back to the client.
 - [CircleCI](https://circleci.com/) - tbd
 - GSA [AWS](https://aws.amazon.com/) -
