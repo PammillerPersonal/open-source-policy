@@ -26,7 +26,7 @@ Legend(ish) - "....." lines account for CLI or browser from client to applicatio
 
 ![Close Source Development Pipeline](https://github.com/GSA/open-source-policy/blob/master/img/css_path.png "Close Source Development Pipeline")
 
-The following is a high-level description of the diagram/architecture. [Grace](https://github.com/GSA/grace) is a working version and GSA employees with proper access (e.g., request access to the private repo) can look under the hood for a closer look of what's happening. (Note: An open source version exists with [Steve](https://github.com/GSA/steve) but you will only get so far without GSA credentials).
+The following is a high-level description of the diagram/architecture. [Ada](https://github.com/GSA/ada) is a working version and GSA employees with proper access (e.g., request access to the private repo) can look under the hood for a closer look of what's happening. (Note: An open source version exists with [Steve](https://github.com/GSA/steve) but you will only get so far without GSA credentials).
 
 - Client - The client is the developer's computer. It consists of an IDE, CLI, Git, and browser for pushing code and monitoring it on GitHub and interacting with CircleCI, Checkmarx, and receives Slack notifications of builds. A local install of [Clouseau](https://github.com/cfpb/clouseau) is helpful for scanning code locally for sensitive content in the Git history.
 - [GitHub](https://github.com/gsa) - GSA has an organization on GitHub.com and closed repositories for close source code versioning. It is the starting point for the development pipeline with branch rules and integration to CircleCI. It also provides notification via Slack back to the client.
