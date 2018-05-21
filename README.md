@@ -20,7 +20,11 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 
 ## Code Scanning Content
 
-tbd - follow in this order...
+Look at the following .md files for more info on code scanning:
+1. CSS_to_OSS
+2. open_source_checklist
+3. checkmarx_poc
+4. static_code_scan
 
 ## Credits
 
