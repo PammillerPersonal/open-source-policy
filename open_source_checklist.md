@@ -7,16 +7,16 @@ Before going live with a public repository, the following considerations should 
 - [ ] **Remove all PII**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
   - Visually inspect each image to ensure there is no GSA-specific information.
-    - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
 - [ ] **Remove all potential security vulnerabilities**
-    - Passwords, keys, IPs, etc.
-    - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
+  - Passwords, keys, IPs, etc.
 - [ ] **Consider propers use of open source code within the code base**
-- [ ] **Include GSA standard or updated `README.md`**   
-    - Have installation instructions documented and tried out before posting   
-    - Make sure to include and test all configuration dependencies
+- [ ] **Include GSA standard or updated `README.md`**
+  - Have installation instructions documented and tried out before posting
+  - Make sure to include and test all configuration dependencies
 - [ ] **Include GSA standard or updated `CONTRIBUTING.md` file**
 - [ ] **Include GSA standard or updated `LICENSE.md`**
 - [ ] **Include an updated `codeinventory.yml`**
 - [ ] **If desired, include `CHANGELOG.md`**
 - [ ] **Use `.gitignore`**
+
+*18F [Before You Ship](https://before-you-ship.18f.gov/) is a good resource with lots of helpful info on open source SW creation
