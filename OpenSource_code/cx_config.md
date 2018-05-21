@@ -1,0 +1,1 @@
+# Checkmarx configuration with CircleCI
