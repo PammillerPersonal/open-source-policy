@@ -6,10 +6,8 @@ Before going live with a public repository, the following considerations should 
   - Contact the CTO's office for support - cto@gsa.gov
 - [ ] **Remove all PII**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
-  - If there are images, visually inspect each image to ensure there is no GSA-specific information.
-    - Probably need to point people to PII list/definition
-      - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
-      - Look at 18F seeker
+  - Visually inspect each image to ensure there is no GSA-specific information.
+    - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
 - [ ] **Remove all potential security vulnerabilities**
     - Passwords, keys, IPs, etc.
     - Look in [18F Before Your Ship](https://before-you-ship.18f.gov/)
