@@ -7,7 +7,6 @@ This repository is part of the [General Services Administration](http://gsa.gov)
 This repository can be forked by GSA teams wishing to begin an open source project and should include some or all of the following files.
 - [Policy](policy.md) - provides further details of the official GSA Open Source Policy
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
-- [CSS to OSS](OpenSource_code/CSS_to_OSS.md) - process of open sourcing closed code to open code based on project experience within GSA
 - [Open Source Checklist](OpenSource_code/open_source_checklist.md) - provides a checklist that teams can use when open sourcing their code
 - [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) - provides overview of our efforts for static code scan with Checkmarx
 [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) - specific instructions on code scanning
@@ -21,10 +20,9 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 ## Code Scanning Content
 
 Look at the following .md files in [OpenSource_code](https://github.com/GSA/open-source-policy/tree/master/OpenSource_code) for details on open sourcing code within a modern dev pipeline with static scans.
-1. [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/CSS_to_OSS.md)
-2. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md)
+1. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md)
+2. [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md)
 3. [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md)
-4. [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md)
 
 ## Credits
 
