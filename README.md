@@ -11,6 +11,8 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
 - [CSS to OSS](CSS_to_OSS.md) - process of open sourcing closed code to open code based on project experience within GSA
 - [Open Source Checklist](open_source_checklist.md) - provides a checklist that teams can use when open sourcing their code
+- [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/checkmarx_poc.md) - provides overview of our efforts for static code scan with Checkmarx
+[static_code_scan](https://github.com/GSA/open-source-policy/blob/master/static_code_scan.md) - specific instructions on code scanning
 - [README.md](README.md) - initial repository file welcoming contributors and describing the repos intent
 - [LICENSE.md](LICENSE.md) - open source license details for opening and contributing to GSA developed code
 - [CONTRIBUTING.md](CONTRIBUTING.md) - "rules of the road" for contributing to GSA repos including this one
