@@ -30,5 +30,5 @@ This option is for project teams that have closed source code and want to scan i
 5. Scan code in repository or on local machine with pre-commit [Clouseau](https://github.com/cfpb/clouseau).
 6. [Lock](https://help.github.com/articles/configuring-protected-branches/) master branch for monitored PR inclusion.
 7. Link your GitHub account to [CircleCI](https://circleci.com/). Setup linters, proofers, and tests as needed for your project/code.  This can be done in settings on the repo or in the .circlci/config.yml file. Build out your development workflow. Refer to CircleCI [documentation](https://circleci.com/docs/) for further details.
-8. Configure CircleCI after integrating GitHub repo. Through CircleCI repo settings, Cx environment variables and testing commands can be entered.  *See [cx_config](#) for specific config instructions.
+8. Configure CircleCI after integrating GitHub repo. Through CircleCI repo settings, Cx environment variables and testing commands can be entered.  *See [cx_config](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/cx_config.md) for specific config instructions.
 9. Setup [integrations](https://gsa-tts.slack.com/apps) for communications between Slack, GitHub, and CircleCI allowing for notification of changes from commits, PRs, to full build status.

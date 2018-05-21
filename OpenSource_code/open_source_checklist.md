@@ -2,8 +2,8 @@
 Before going live with a public repository, the following considerations should be taken. 
 
 - [ ] **Remove all PII**
-  - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
-  - Visually inspect each image to ensure there is no GSA-specific information.
+  - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code, pre-commit
+  - Visually inspect each image to ensure there is no GSA-specific information
 - [ ] **Remove all potential security vulnerabilities**
   - Passwords, keys, IPs, etc.
 - [ ] **Consider propers use of open source code within the code base**
@@ -19,4 +19,4 @@ Before going live with a public repository, the following considerations should 
   - Look at GSA's code scanning documentation - [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) and [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) docs
   - Contact the CTO's office for support - cto@gsa.gov
 
-*18F [Before You Ship](https://before-you-ship.18f.gov/) is a good resource with lots of helpful info on open source SW creation
+*18F [Before You Ship](https://before-you-ship.18f.gov/) and [12 Factor App](https://12factor.net/) are good resources with lots of helpful info on open source SW creation
