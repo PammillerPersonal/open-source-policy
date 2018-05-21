@@ -2,7 +2,7 @@
 
 This proof of concept was initiated in the GSA CTO office to facilitate implementation of the Federal Source Code Policy, M-16-21, with the intention of open sourcing more GSA IT code. The goal was to stand up a code development pipeline similar to our open source pipeline for scanning close source code to make open source.
 
-Instructions for setting up a development pipeline (either open or closed) can be found at [static_code_scan.md](https://github.com/GSA/open-source-policy/blob/master/static_code_scan.md) within this repo.
+Instructions for setting up a development pipeline (either open or closed) can be found at [static_code_scan.md](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) within this repo.
 
 ---
 

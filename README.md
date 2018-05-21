@@ -1,5 +1,3 @@
-*Draft Repository - creating with internal GSA open source workgroup and vetting through appropriate oversight offices for final publication.*
-
 # GSA Open Source Policy Guidance
 
 This repository is part of the [General Services Administration](http://gsa.gov) organization in GitHub and is being used to provide supplemental guidance for implementing [GSA's Open Source Policy](https://open.gsa.gov/oss-policy/).
@@ -9,10 +7,10 @@ This repository is part of the [General Services Administration](http://gsa.gov)
 This repository can be forked by GSA teams wishing to begin an open source project and should include some or all of the following files.
 - [Policy](policy.md) - provides further details of the official GSA Open Source Policy
 - [Practice](practice.md) - the Open Source Policy in practice - describes the approach GSA staff members should take to contribute and maintain code in the open
-- [CSS to OSS](CSS_to_OSS.md) - process of open sourcing closed code to open code based on project experience within GSA
-- [Open Source Checklist](open_source_checklist.md) - provides a checklist that teams can use when open sourcing their code
-- [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/checkmarx_poc.md) - provides overview of our efforts for static code scan with Checkmarx
-[static_code_scan](https://github.com/GSA/open-source-policy/blob/master/static_code_scan.md) - specific instructions on code scanning
+- [CSS to OSS](OpenSource_code/CSS_to_OSS.md) - process of open sourcing closed code to open code based on project experience within GSA
+- [Open Source Checklist](OpenSource_code/open_source_checklist.md) - provides a checklist that teams can use when open sourcing their code
+- [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) - provides overview of our efforts for static code scan with Checkmarx
+[static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) - specific instructions on code scanning
 - [README.md](README.md) - initial repository file welcoming contributors and describing the repos intent
 - [LICENSE.md](LICENSE.md) - open source license details for opening and contributing to GSA developed code
 - [CONTRIBUTING.md](CONTRIBUTING.md) - "rules of the road" for contributing to GSA repos including this one
@@ -23,10 +21,10 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 ## Code Scanning Content
 
 Look at the following .md files for details on code scanning.
-1. [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/CSS_to_OSS.md)
-2. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md)
-3. [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/checkmarx_poc.md)
-4. [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/static_code_scan.md)
+1. [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/CSS_to_OSS.md)
+2. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md)
+3. [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md)
+4. [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md)
 
 ## Credits
 
