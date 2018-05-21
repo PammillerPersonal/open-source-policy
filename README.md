@@ -20,7 +20,7 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 
 ## Code Scanning Content
 
-Look at the following .md files in [OpenSource_code](https://github.com/GSA/open-source-policy/tree/master/OpenSource_code) for details on code scanning.
+Look at the following .md files in [OpenSource_code](https://github.com/GSA/open-source-policy/tree/master/OpenSource_code) for details on open sourcing code within a modern dev pipeline with static scans.
 1. [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/CSS_to_OSS.md)
 2. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md)
 3. [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md)
