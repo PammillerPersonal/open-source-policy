@@ -17,7 +17,7 @@ This repository can be forked by GSA teams wishing to begin an open source proje
 - Shell scripts - [create-gsa-repo.sh](create-gsa-repo.sh) and [init-gsa-repo.sh](init-gsa-repo.sh) used for duplicating this repo
 - Include files - [.gitignore](.gitignore), [codeinventory.yml](.codeinventory.yml), and [.github](.github) - these files are for hosting config and repo environment content
 
-## Code Scanning Content
+## Open Sourcing and Scanning Code
 
 Look at the following .md files in [OpenSource_code](https://github.com/GSA/open-source-policy/tree/master/OpenSource_code) for details on open sourcing code within a modern dev pipeline with static scans.
 1. [open_source_checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md)
