@@ -2,7 +2,7 @@
 Before going live with a public repository, the following considerations should be taken. 
 
 - [ ] **Setup or use a standard development pipeline**
-  - Look at GSA's code scanning documentation - [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md), [CSS_to_OSS](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/CSS_to_OSS.md), and [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) docs
+  - Look at GSA's code scanning documentation - [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) and [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) docs
   - Contact the CTO's office for support - cto@gsa.gov
 - [ ] **Remove all PII**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
