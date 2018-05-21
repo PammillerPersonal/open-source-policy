@@ -1,9 +1,6 @@
 # Open source checklist
 Before going live with a public repository, the following considerations should be taken. 
 
-- [ ] **Setup or use a standard development pipeline**
-  - Look at GSA's code scanning documentation - [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) and [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) docs
-  - Contact the CTO's office for support - cto@gsa.gov
 - [ ] **Remove all PII**
   - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code.
   - Visually inspect each image to ensure there is no GSA-specific information.
@@ -18,5 +15,8 @@ Before going live with a public repository, the following considerations should 
 - [ ] **Include an updated `codeinventory.yml`**
 - [ ] **If desired, include `CHANGELOG.md`**
 - [ ] **Use `.gitignore`**
+- [ ] **Setup or use a standard development pipeline**
+  - Look at GSA's code scanning documentation - [static_code_scan](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/static_code_scan.md) and [checkmarx_poc](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/checkmarx_poc.md) docs
+  - Contact the CTO's office for support - cto@gsa.gov
 
 *18F [Before You Ship](https://before-you-ship.18f.gov/) is a good resource with lots of helpful info on open source SW creation
