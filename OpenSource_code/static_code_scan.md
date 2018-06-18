@@ -11,7 +11,7 @@ Questions and help reach out to the GSA's CTO office (cto@gsa.gov).  For text ch
 This option is for project teams that already have open source code and are looking to create a development pipeline for continually updating code upon commit/PR to repo.  This is also the "free" option.
 
 1. Review the GSA Open Source Policy [repo](https://github.com/GSA/open-source-policy).
-2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations for code development).
+2. Read the [open source checklist](https://github.com/GSA/open-source-policy/blob/master/OpenSource_code/open_source_checklist.md) (even if you don't plan to open source, it has a lot of good considerations for code development).
 3. Create a public repository on GitHub in the GSA [organization](https://github.com/GSA).  Make sure to follow GSA's GitHub use [instructions](https://github.com/GSA/GitHub-Administration).
 4. Scan code in repository or on local machine with pre-commit  [Clouseau](https://github.com/cfpb/clouseau).
 5. [Lock](https://help.github.com/articles/configuring-protected-branches/) master branch for monitored PR inclusion.
