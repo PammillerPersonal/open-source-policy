@@ -2,11 +2,11 @@
 Before going live with a public repository, the following considerations should be taken. 
 
 - [ ] **Remove all PII**
-  - Use [Clouseau](https://github.com/virtix/clouseau) for scanning source code, pre-commit
+  - Use [Clouseau](https://github.com/cfpb/clouseau) for scanning source code, pre-commit
   - Visually inspect each image to ensure there is no GSA-specific information
 - [ ] **Remove all potential security vulnerabilities**
   - Passwords, keys, IPs, etc.
-- [ ] **Consider propers use of open source code within the code base**
+- [ ] **Consider proper use of open source code within the code base**
 - [ ] **Include GSA standard or updated `README.md`**
   - Have installation instructions documented and tried out before posting
   - Make sure to include and test all configuration dependencies
