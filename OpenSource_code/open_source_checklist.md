@@ -4,9 +4,12 @@ Before going live with a public repository, the following considerations should 
 - [ ] **Remove all PII**
   - Use [Clouseau](https://github.com/cfpb/clouseau) for scanning source code, pre-commit
   - Visually inspect each image to ensure there is no GSA-specific information
-- [ ] **Remove all potential security vulnerabilities**
-  - Passwords, keys, IPs, etc.
-- [ ] **Consider proper use of open source code within the code base**
+- [ ] **Remove all potential security sensitive information**
+  - Passwords, tokens, keys, IPs, etc.
+- [ ] **Consider proper use of open source code**
+- [ ] **Consider/review what is proper to open source the code**
+   - What kind of license should be used
+   - Whether there are restrictions on what should be open sourced
 - [ ] **Include GSA standard or updated `README.md`**
   - Have installation instructions documented and tried out before posting
   - Make sure to include and test all configuration dependencies
